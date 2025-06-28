@@ -33,7 +33,7 @@ const works = [
     imgSrc: "/images/projects/EducationHub.png",
     title: "E-learning App",
     tags: ["React","Tailwind", "Node.js", "Nodemailer", "MongoDb", "JWT"],
-    projectLink: "https://mentor-menti.vercel.app/",
+    projectLink: "https://mentor-menti-uint.vercel.app/",
   }
   
   
