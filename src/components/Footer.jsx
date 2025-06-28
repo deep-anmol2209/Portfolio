@@ -52,7 +52,7 @@ function Footer() {
               <h2 className='headline-1 mb-8 lg:max-w-[12ch]'>Let's work together today!</h2>
 
               <ButtonPrimary
-                href='mailto:officialavtar29@gmail.com'
+                href='mailto:coder.anmol22@gmail.com'
                 label='Start project'
                 icon='chevron_right'
                 classes='w-max'
