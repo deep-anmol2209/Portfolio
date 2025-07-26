@@ -36,8 +36,15 @@ const certificates = [
     issuedBy: "ITDA Calc",
     certificateLink: "https://res.cloudinary.com/anmol22/image/upload/v1753546796/DCPA_ol26i0.jpg",
     issuedDate: "FEB 2024",
-  }
+  },
   
+  {
+    imgSrc: "/images/certificates/Anmol_Intern.jpg",
+    title: "Internship completion certificate",
+    issuedBy: "MEPL",
+    certificateLink: "https://res.cloudinary.com/anmol22/image/upload/v1753562785/ANMOL_SINGH_-_Certificate.pdf_page-0001_ihgt7h.jpg",
+    issuedDate: "June 2025",
+  }
   
 ];
 
