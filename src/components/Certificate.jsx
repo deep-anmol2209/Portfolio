@@ -23,18 +23,18 @@ const cardVariants = {
 
 const certificates = [
   {
-    imgSrc: "/images/certificates/certificate-5.webp",
-    title: "Full Stack Development with AI [MERN] -Soon",
+    imgSrc: "/images/certificates/fsd.jpg",
+    title: "Full Stack Development with AI [MERN]",
     issuedBy: "AIMERZ",
-    certificateLink: "",
-    issuedDate: "APR 2025",
+    certificateLink: "https://res.cloudinary.com/anmol22/image/upload/v1753546731/fsd_yts7pe.jpg",
+    issuedDate: "July 2025",
   },
 
   {
     imgSrc: "/images/certificates/DCPA.jpg",
     title: "Diploma in Computer-Application & Programming",
-    issuedBy: "AIMERZ",
-    certificateLink: "",
+    issuedBy: "ITDA Calc",
+    certificateLink: "https://res.cloudinary.com/anmol22/image/upload/v1753546796/DCPA_ol26i0.jpg",
     issuedDate: "FEB 2024",
   }
   
