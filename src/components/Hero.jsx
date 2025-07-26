@@ -44,10 +44,10 @@ function Hero() {
           <div className='flex items-center gap-3'>
             <ButtonPrimary
               label='Download CV'
-              href='/AnmolSingh_Resume.pdf'
+              href='/Anmol_Resume.pdf'
               className='w-full jello-horizontal download-btn'
               imgSrc='/images/file_download.svg'
-              download='AvtarSingh_Resume.pdf'
+              download='Anmol_Resume.pdf'
             />
 
             <ButtonOutline
