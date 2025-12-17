@@ -26,7 +26,7 @@ const certificates = [
     imgSrc: "/images/certificates/fsd.jpg",
     title: "Full Stack Development with AI [MERN]",
     issuedBy: "AIMERZ",
-    certificateLink: "https://res.cloudinary.com/anmol22/image/upload/v1753546731/fsd_yts7pe.jpg",
+    certificateLink: "https://res.cloudinary.com/anmol22/image/upload/v1765130173/user_photos/4275323-Full_Stack_Development_With_AI_-_SU_LAJ-Anmol_Deep_page-0001_w4b7pw.jpg",
     issuedDate: "July 2025",
   },
 
@@ -34,7 +34,7 @@ const certificates = [
     imgSrc: "/images/certificates/DCPA.jpg",
     title: "Diploma in Computer-Application & Programming",
     issuedBy: "ITDA Calc",
-    certificateLink: "https://res.cloudinary.com/anmol22/image/upload/v1753546796/DCPA_ol26i0.jpg",
+    certificateLink: "https://res.cloudinary.com/anmol22/image/upload/v1765957848/IMG_20250628_201946_1_tqxxg9.jpg",
     issuedDate: "FEB 2024",
   },
   
@@ -42,7 +42,7 @@ const certificates = [
     imgSrc: "/images/certificates/Anmol_Intern.jpg",
     title: "Internship completion certificate",
     issuedBy: "MEPL",
-    certificateLink: "https://res.cloudinary.com/anmol22/image/upload/v1753562785/ANMOL_SINGH_-_Certificate.pdf_page-0001_ihgt7h.jpg",
+    certificateLink: "https://res.cloudinary.com/anmol22/image/upload/v1765956917/ANMOL_SINGH_-_Certificate.pdf_page-0001_bev8nu.jpg",
     issuedDate: "June 2025",
   }
   
